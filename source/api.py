@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 from pydantic import BaseModel
 import numpy as np
-from source.solver import solve_parameters
+from solver import solve_parameters
 
 router = APIRouter()
 
