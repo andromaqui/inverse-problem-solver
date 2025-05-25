@@ -1,1 +1,6 @@
 .idea
+venv/
+source/bin/
+source/include/
+source/lib/
+source/__pycache__/
