@@ -4,3 +4,4 @@ source/bin/
 source/include/
 source/lib/
 source/__pycache__/
+source/.venv/
