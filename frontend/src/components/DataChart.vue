@@ -68,8 +68,8 @@ const chartData = computed(() => ({
 <style scoped>
 .chart-container {
   width: 100%;
-  max-width: 600px;
-  height: 600px;
+  max-width: 1000px;
+  height: 1000px;
 }
 canvas {
   width: 100% !important;
