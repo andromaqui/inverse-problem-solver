@@ -5,3 +5,4 @@ source/include/
 source/lib/
 source/__pycache__/
 source/.venv/
+frontend/node_modules/
