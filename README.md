@@ -13,7 +13,7 @@ This is a web-based interactive tool for solving 1D inverse problems using regul
 - Adjust regularization strength (`alpha`) via slider
 - Plot model fit and view estimated parameters
 
-### 🖼2D Image Deblurring Tool
+### 2D Image Deblurring Tool
 - View a blurred image (e.g., `cameraman_blurred.png`)
 - Click "Unblur" to run a backend deblurring operation
 - View deblurred result side-by-side
